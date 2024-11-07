@@ -57,3 +57,4 @@ tzdata==2024.2
 urllib3==2.2.3
 wcwidth==0.2.13
 wheel==0.43.0
+graphviz==0.20.1
